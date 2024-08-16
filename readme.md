@@ -34,6 +34,7 @@ Antes de começar, você precisa ter as seguintes ferramentas instaladas:
   
 - [Postman](https://www.postman.com/) - Ferramenta de desenvolvimento amplamente usada para testar e interagir com APIs. É um ambiente de trabalho completo que facilita o desenvolvimento, teste e depuração de APIs.
 <br>
+
 ## 🔧 Instalação
 
 Siga os passos abaixo para configurar o projeto:
