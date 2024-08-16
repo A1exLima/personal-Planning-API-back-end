@@ -33,7 +33,6 @@ Antes de começar, você precisa ter as seguintes ferramentas instaladas:
 - [npm](https://www.npmjs.com/) - (Node Package Manager) é o gerenciador de pacotes para a plataforma Node.js. Ele facilita a instalação, atualização, gerenciamento e compartilhamento de bibliotecas e módulos de JavaScript.
   
 - [Postman](https://www.postman.com/) - Ferramenta de desenvolvimento amplamente usada para testar e interagir com APIs. É um ambiente de trabalho completo que facilita o desenvolvimento, teste e depuração de APIs.
-<br>
 
 ## 🔧 Instalação
 
@@ -42,8 +41,8 @@ Siga os passos abaixo para configurar o projeto:
 1. __Clone o Repositório__
 
    ```bash
-   git clone https://github.com/usuario/projeto.git
-   cd projeto
+   git clone https://github.com/A1exLima/personal-Planning-API-back-end.git
+   cd personal-Planning-API-back-end
 
 2. __Instale as Dependências__
 
